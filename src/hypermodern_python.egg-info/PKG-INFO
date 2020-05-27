@@ -1,0 +1,11 @@
+Metadata-Version: 1.2
+Name: hypermodern-python
+Version: 0.1.0
+Summary: The Hypermodern Python Project
+Home-page: https://github.com/benignoc/hypermodern-python
+Author: Benigno Calvo
+Author-email: benigno.calvo@seveneighths.com
+License: UNKNOWN
+Description: # hypermodern-python
+Platform: UNKNOWN
+Requires-Python: >=3.7,<4.0
